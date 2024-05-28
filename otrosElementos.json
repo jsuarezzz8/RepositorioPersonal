@@ -3,7 +3,7 @@
 "descripcion":" Dispositivo de radio control que permite controlar el aeromodelo.",
 "precio": 200,
 "tipo":"Electrónica",
-"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/blob/main/control-171251547-612x612.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/control-171251547-612x612.jpg"
 },
 
 {
@@ -11,7 +11,7 @@
 "descripcion":"Dispositivo que recibe las señales del transmisor para controlar el aeromodelo.",
 "precio":70,
 "tipo":"Electrónica",
-"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/blob/main/receptor.jpeg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/receptor.jpeg"
 },
 
 {
@@ -19,7 +19,7 @@
 "descripcion":"Motores que controlan las superficies de control del aeromodelo (alerones, timón, etc.).",
 "precio":35,
 "tipo":"Electrónica",
-"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/blob/main/servo.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/servo.jpg"
 },
 
 {
@@ -27,7 +27,7 @@
 "descripcion":"Baterías recargables utilizadas para alimentar el aeromodelo.",
 "precio":75,
 "tipo":"Energía",
-"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/blob/main/bateria.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/bateria.jpg"
 },
 
 {
@@ -35,7 +35,7 @@
 "descripcion":"Dispositivos para recargar baterías LiPo.",
 "precio":80,
 "tipo":"Energía",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/cargador.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/cargador.jpg"
 },
 
 {
@@ -43,7 +43,7 @@
 "descripcion":"Motores eléctricos de alta eficiencia para aeromodelos.",
 "precio":70,
 "tipo":"Electrónica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/motor%20bushless.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/motor%20bushless.jpg"
 },
 
 {
@@ -51,7 +51,7 @@
 "descripcion":"Dispositivos que controlan la velocidad del motor brushless.",
 "precio":30,
 "tipo":"Electrónica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/variador.png"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/variador.png"
 },
 
 {
@@ -59,7 +59,7 @@
 "descripcion":"Componentes que generan empuje para el vuelo.",
 "precio":10,
 "tipo":"Mecánica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/H%C3%A9lices.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/H%C3%A9lices.jpg"
 },
 
 {
@@ -67,7 +67,7 @@
 "descripcion":"Conjunto de herramientas y adhesivos necesarios para ensamblar y mantener aeromodelos.",
 "precio":40,
 "tipo":"Accesorios",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/h.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/h.jpg"
 },
 
 {
@@ -75,7 +75,7 @@
 "descripcion":"Software y hardware para practicar el vuelo en una computadora.",
 "precio":150,
 "tipo":"Software",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/s.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/s.jpg"
 },
 
 {
@@ -83,7 +83,7 @@
 "descripcion":"Conjuntos portátiles para cargar baterías y almacenar herramientas en el campo de vuelo.",
 "precio":120,
 "tipo":"Accesorios",
-"imagen": "https://github.com/Isarquis/DatosDSW/blob/main/f.jpg"
+"imagen": "https://raw.githubusercontent.com/Isarquis/DatosDSW/main/f.jpg"
 },
 
 {
@@ -91,7 +91,7 @@
 "descripcion":"Cámaras para transmitir video en tiempo real desde el aeromodelo.",
 "precio":100,
 "tipo":"Electrónica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/c.png"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/c.png"
 },
 
 {
@@ -99,7 +99,7 @@
 "descripcion":"Gafas que muestran el video transmitido por las cámaras FPV para una experiencia inmersiva.",
 "precio":350,
 "tipo":"Electrónica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/vi.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/vi.jpg"
 },
 
 {
@@ -107,7 +107,7 @@
 "descripcion":"Luces LED para mejorar la visibilidad del aeromodelo durante el vuelo nocturno.",
 "precio":30,
 "tipo":"Electrónica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/l.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/l.jpg"
 },
 
 {
@@ -115,7 +115,7 @@
 "descripcion":"Piezas de repuesto para reparar daños en el aeromodelo.",
 "precio":79,
 "tipo":"Mecánica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/f.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/f.jpg"
 },
 
 {
@@ -123,7 +123,7 @@
 "descripcion":"Dispositivos que envían datos en tiempo real (velocidad, altitud, voltaje de la batería) al piloto.",
 "precio":250,
 "tipo":"Electrónica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/d.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/d.jpg"
 },
 
 {
@@ -131,7 +131,7 @@
 "descripcion":"Productos para personalizar la apariencia del aeromodelo.",
 "precio":20,
 "tipo":"Accesorios",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/pi.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/pi.jpg"
 },
 
 {
@@ -139,7 +139,7 @@
 "descripcion":"Dispositivos que ayudan a los principiantes a aprender a volar sin riesgos.",
 "precio":45,
 "tipo":"Accesorios",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/ala.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/ala.jpg"
 },
 
 {
@@ -147,7 +147,7 @@
 "descripcion":"Libros y guías sobre cómo volar y mantener aeromodelos.",
 "precio":15,
 "tipo":"Educación",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/man.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/man.jpg"
 },
 
 {
@@ -155,7 +155,7 @@
 "descripcion":"Equipaje especializado para transportar aeromodelos y sus componentes.",
 "precio":40,
 "tipo":"Accesorios",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/estuche.png"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/estuche.png"
 },
 
 {
@@ -163,7 +163,7 @@
 "descripcion":"Camisetas con logos, diseños y eslóganes de la tienda de aeromodelos.",
 "precio":15,
 "tipo":"Merch",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/camiseta.png"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/camiseta.png"
 },
 
 {
@@ -171,7 +171,7 @@
 "descripcion":"Gorras con el logotipo de la tienda o diseños relacionados con aeromodelos.",
 "precio":10,
 "tipo":"Merch",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/gorra.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/gorra.jpg"
 },
 
 {
@@ -179,7 +179,7 @@
 "descripcion":"Sudaderas con capucha con gráficos de aeromodelos y el logotipo de la tienda.",
 "precio":50,
 "tipo":"Merch",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/sudadera.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSWmain/sudadera.jpg"
 },
 
 {
@@ -187,7 +187,7 @@
 "descripcion":"Pegatinas con diversos diseños de aeromodelos y logotipos de la tienda.",
 "precio":1,
 "tipo":"Merch",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/stickers.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/stickers.jpg"
 },
 
 {
@@ -195,7 +195,7 @@
 "descripcion":"Llaveros con miniaturas de aeromodelos o el logotipo de la tienda.",
 "precio":5,
 "tipo":"Merch",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/llaveros.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/llaveros.jpg"
 },
 
 {
@@ -203,7 +203,7 @@
 "descripcion":"Pósters con imágenes de aeromodelos en acción o planos técnicos.",
 "precio":10,
 "tipo":"Merch",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/poster.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/poster.jpg"
 },
 
 {
@@ -211,7 +211,7 @@
 "descripcion":"Parches bordados con logos o imágenes de aeromodelos.",
 "precio":5,
 "tipo":"Merch",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/parche.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/parche.jpg"
 },
 
 {
@@ -219,7 +219,7 @@
 "descripcion":"Pins y broches con diseños de aeromodelos.",
 "precio":5,
 "tipo":"Merch",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/pines.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/pines.jpg"
 },
 
 {
@@ -227,7 +227,7 @@
 "descripcion":"Cuadernos con portadas de aeromodelos y el logotipo de la tienda.",
 "precio":10,
 "tipo":"Merch",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/cuaderno.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/cuaderno.jpg"
 },
 
 {
@@ -235,7 +235,7 @@
 "descripcion":"Mochilas con diseños de aeromodelos y logotipos de la tienda.",
 "precio":45,
 "tipo":"Merch",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/maleta.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/maleta.jpg"
 },
 
 {
@@ -243,5 +243,5 @@
 "descripcion":"Un sistema de paracaídas diseñado para desplegarse en caso de fallo del aeromodelo, reduciendo el impacto y evitando daños graves al modelo.",
 "precio":120,
 "tipo":"Accesorio",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/paracaidas.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/main/paracaidas.jpg"
 }]
