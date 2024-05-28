@@ -3,7 +3,7 @@
 "descripcion":" Dispositivo de radio control que permite controlar el aeromodelo.",
 "precio": 200,
 "tipo":"Electrónica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/control-171251547-612x612.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/blob/main/control-171251547-612x612.jpg"
 },
 
 {
@@ -11,7 +11,7 @@
 "descripcion":"Dispositivo que recibe las señales del transmisor para controlar el aeromodelo.",
 "precio":70,
 "tipo":"Electrónica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/receptor.jpeg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/blob/main/receptor.jpeg"
 },
 
 {
@@ -19,7 +19,7 @@
 "descripcion":"Motores que controlan las superficies de control del aeromodelo (alerones, timón, etc.).",
 "precio":35,
 "tipo":"Electrónica",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/servo.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/blob/main/servo.jpg"
 },
 
 {
@@ -27,7 +27,7 @@
 "descripcion":"Baterías recargables utilizadas para alimentar el aeromodelo.",
 "precio":75,
 "tipo":"Energía",
-"imagen":"https://github.com/Isarquis/DatosDSW/blob/main/bateria.jpg"
+"imagen":"https://raw.githubusercontent.com/Isarquis/DatosDSW/blob/main/bateria.jpg"
 },
 
 {
