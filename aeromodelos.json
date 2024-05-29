@@ -1,0 +1,302 @@
+[
+    {
+      "tipo": "Avión",
+      "material": "Fibra de carbono",
+      "rakingCalidad": 4.5,
+      "cantidadDisponibles": 10,
+      "nombre": "Speedster 3000",
+      "descripcion": "Un avión deportivo de alta velocidad con una estructura robusta y ligera.",
+      "precio": 1500000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/1.jpg"
+    },
+    {
+      "tipo": "Helicóptero",
+      "material": "Aluminio",
+      "rakingCalidad": 4.2,
+      "cantidadDisponibles": 5,
+      "nombre": "Heli-Racer",
+      "descripcion": "Un helicóptero ágil y maniobrable, ideal para competiciones.",
+      "precio": 1800000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/2.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Plástico ABS",
+      "rakingCalidad": 4.7,
+      "cantidadDisponibles": 20,
+      "nombre": "SkyRunner",
+      "descripcion": "Un avión deportivo con tecnología avanzada y fácil de controlar.",
+      "precio": 900000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/3.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Madera balsa",
+      "rakingCalidad": 4.0,
+      "cantidadDisponibles": 8,
+      "nombre": "Eagle 2200",
+      "descripcion": "Un avión de ala alta con excelente estabilidad y durabilidad.",
+      "precio": 1200000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/4.jpg"
+    },
+    {
+      "tipo": "Helicóptero",
+      "material": "Fibra de vidrio",
+      "rakingCalidad": 4.3,
+      "cantidadDisponibles": 7,
+      "nombre": "Whirlwind",
+      "descripcion": "Un helicóptero deportivo con un diseño aerodinámico y elegante.",
+      "precio": 2000000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/5.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Fibra de carbono",
+      "rakingCalidad": 4.8,
+      "cantidadDisponibles": 15,
+      "nombre": "FlyMaster",
+      "descripcion": "Un avión de carreras con una estructura ligera y resistente.",
+      "precio": 950000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/6.png"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Fibra de carbono",
+      "rakingCalidad": 4.6,
+      "cantidadDisponibles": 12,
+      "nombre": "Falcon X",
+      "descripcion": "Un avión deportivo con excelente rendimiento y velocidad.",
+      "precio": 1400000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/7.jpg"
+    },
+    {
+      "tipo": "Helicóptero",
+      "material": "Aluminio",
+      "rakingCalidad": 4.1,
+      "cantidadDisponibles": 6,
+      "nombre": "SkyHawk",
+      "descripcion": "Un helicóptero rápido y versátil, perfecto para cualquier piloto.",
+      "precio": 1700000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/8.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Plástico ABS",
+      "rakingCalidad": 4.5,
+      "cantidadDisponibles": 18,
+      "nombre": "RaceX",
+      "descripcion": "Un avión de alto rendimiento con un diseño compacto y aerodinámico.",
+      "precio": 850000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/9.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Madera balsa",
+      "rakingCalidad": 4.4,
+      "cantidadDisponibles": 9,
+      "nombre": "Thunderbird",
+      "descripcion": "Un avión deportivo de alto vuelo con una estructura ligera.",
+      "precio": 1300000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/10.jpg"
+    },
+    {
+      "tipo": "Helicóptero",
+      "material": "Fibra de vidrio",
+      "rakingCalidad": 4.5,
+      "cantidadDisponibles": 8,
+      "nombre": "StormRider",
+      "descripcion": "Un helicóptero de carreras con una excelente capacidad de maniobra.",
+      "precio": 1900000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/11.png"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Fibra de carbono",
+      "rakingCalidad": 4.9,
+      "cantidadDisponibles": 20,
+      "nombre": "SpeedAvion",
+      "descripcion": "Un avión ultra rápido diseñado para competiciones de alta velocidad.",
+      "precio": 1000000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/12.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Fibra de carbono",
+      "rakingCalidad": 4.6,
+      "cantidadDisponibles": 10,
+      "nombre": "Lightning 5000",
+      "descripcion": "Un avión deportivo de alto rendimiento con capacidad de acrobacias.",
+      "precio": 1600000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/13.jpg"
+    },
+    {
+      "tipo": "Helicóptero",
+      "material": "Aluminio",
+      "rakingCalidad": 4.3,
+      "cantidadDisponibles": 7,
+      "nombre": "AirBlade",
+      "descripcion": "Un helicóptero ágil y veloz, ideal para pilotos avanzados.",
+      "precio": 1850000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/14.png"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Plástico ABS",
+      "rakingCalidad": 4.7,
+      "cantidadDisponibles": 22,
+      "nombre": "Raptor",
+      "descripcion": "Un avión deportivo con excelente estabilidad y velocidad.",
+      "precio": 920000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/15.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Madera balsa",
+      "rakingCalidad": 4.2,
+      "cantidadDisponibles": 9,
+      "nombre": "SkyKing",
+      "descripcion": "Un avión con un diseño clásico y una excelente capacidad de vuelo.",
+      "precio": 1100000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/16.jpg"
+    },
+    {
+      "tipo": "Helicóptero",
+      "material": "Fibra de vidrio",
+      "rakingCalidad": 4.4,
+      "cantidadDisponibles": 6,
+      "nombre": "Vortex",
+      "descripcion": "Un helicóptero con un diseño avanzado y una gran maniobrabilidad.",
+      "precio": 2100000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/17.png"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Fibra de carbono",
+      "rakingCalidad": 4.8,
+      "cantidadDisponibles": 15,
+      "nombre": "TurboFly",
+      "descripcion": "Un avión de carreras con una estructura ligera y resistente.",
+      "precio": 980000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/18.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Fibra de carbono",
+      "rakingCalidad": 4.5,
+      "cantidadDisponibles": 12,
+      "nombre": "JetStream",
+      "descripcion": "Un avión deportivo de alta velocidad con un diseño aerodinámico.",
+      "precio": 1550000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/19.jpg"
+    },
+    {
+      "tipo": "Helicóptero",
+      "material": "Aluminio",
+      "rakingCalidad": 4.2,
+      "cantidadDisponibles": 5,
+      "nombre": "RotorX",
+      "descripcion": "Un helicóptero deportivo con excelente rendimiento y control.",
+      "precio": 1750000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/20.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Plástico ABS",
+      "rakingCalidad": 4.6,
+      "cantidadDisponibles": 20,
+      "nombre": "StormChaser",
+      "descripcion": "Un avión deportivo con un diseño robusto y capacidades avanzadas.",
+      "precio": 870000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/21.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Madera balsa",
+      "rakingCalidad": 4.3,
+      "cantidadDisponibles": 8,
+      "nombre": "WindRider",
+      "descripcion": "Un avión ligero con excelente maniobrabilidad y estabilidad.",
+      "precio": 1250000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/22.jpg"
+    },
+    {
+      "tipo": "Helicóptero",
+      "material": "Fibra de vidrio",
+      "rakingCalidad": 4.5,
+      "cantidadDisponibles": 7,
+      "nombre": "ThunderBlade",
+      "descripcion": "Un helicóptero con un diseño robusto y capacidades avanzadas.",
+      "precio": 2050000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/23.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Fibra de carbono",
+      "rakingCalidad": 4.9,
+      "cantidadDisponibles": 18,
+      "nombre": "AeroSwift",
+      "descripcion": "Un avión de alta velocidad diseñado para competiciones.",
+      "precio": 1020000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/24.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Fibra de carbono",
+      "rakingCalidad": 4.6,
+      "cantidadDisponibles": 10,
+      "nombre": "Stinger 4000",
+      "descripcion": "Un avión de alto rendimiento con una estructura ligera y duradera.",
+      "precio": 1450000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/25.jpg"
+    },
+    {
+      "tipo": "Helicóptero",
+      "material": "Aluminio",
+      "rakingCalidad": 4.3,
+      "cantidadDisponibles": 6,
+      "nombre": "SkyShark",
+      "descripcion": "Un helicóptero rápido y maniobrable, ideal para pilotos expertos.",
+      "precio": 1800000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/26.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Plástico ABS",
+      "rakingCalidad": 4.7,
+      "cantidadDisponibles": 20,
+      "nombre": "SpeedWing",
+      "descripcion": "Un avión deportivo con excelente rendimiento y durabilidad.",
+      "precio": 930000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/27.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Madera balsa",
+      "rakingCalidad": 4.4,
+      "cantidadDisponibles": 9,
+      "nombre": "AirScout",
+      "descripcion": "Un avión ligero y maniobrable con una estructura resistente.",
+      "precio": 1150000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/28.jpg"
+    },
+    {
+      "tipo": "Helicóptero",
+      "material": "Fibra de vidrio",
+      "rakingCalidad": 4.5,
+      "cantidadDisponibles": 8,
+      "nombre": "Blizzard",
+      "descripcion": "Un helicóptero deportivo con un diseño aerodinámico y robusto.",
+      "precio": 1950000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/29.jpg"
+    },
+    {
+      "tipo": "Avión",
+      "material": "Fibra de carbono",
+      "rakingCalidad": 4.5,
+      "cantidadDisponibles": 12,
+      "nombre": "SkyRacer",
+      "descripcion": "Un avión deportivo de alta velocidad con excelente maniobrabilidad.",
+      "precio": 1500000,
+      "imagen": "https://raw.githubusercontent.com/I-Bonnett-I/Imagenes/main/Aeromodelos/30.jpg"
+    }
+  ]
